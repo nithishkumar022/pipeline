@@ -16,7 +16,6 @@ pipeline{
 
            stage("depoly"){
             steps{
-                    pwd
                     echo "wlecome testing"
             }
         }
